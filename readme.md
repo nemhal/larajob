@@ -1,8 +1,8 @@
 ## Instructions ##
 
-1. Set `QUEUE_DRIVER=redis` in .env and setup mysql connection at .env
+1. Set `QUEUE_DRIVER=redis` in .env
 
-2. Set MySQL at .env
+2. Set MySQL database connection at .env
 
 3. Run `php artisan queue:failed-table`
 
