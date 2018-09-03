@@ -73,7 +73,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="/newJobs">Add new jobs to the Queue</a>
+                    <a href="/newJobs/20">Add new jobs to the Queue</a>
                     <a href="/horizon">HORIZON</a>
                 </div>
             </div>
